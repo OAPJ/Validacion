@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "418044190612",
+    "firebase_url": "https://correos-71560.firebaseio.com",
+    "project_id": "correos-71560",
+    "storage_bucket": "correos-71560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418044190612:android:33b511a8f66e0f49",
+        "android_client_info": {
+          "package_name": "com.example.alumno.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418044190612-hdv63r3c9cmu33j7hub7scl85gmjelk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miguel.autenticacioncorreo",
+            "certificate_hash": "e5913b2e2061dafdc5af3e346812e69af3d1b828"
+          }
+        },
+        {
+          "client_id": "418044190612-ke34q55skdngnipprnui3eus8peubp13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvU_1P_p2gd3Rmh-Nn7b7ezLJkk_nO5Ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418044190612-ke34q55skdngnipprnui3eus8peubp13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
